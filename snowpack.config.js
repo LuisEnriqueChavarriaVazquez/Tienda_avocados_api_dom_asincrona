@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://LuisEnriqueChavarriaVazquez.github.io/Tienda_avocados_api_dom_asincrona',
   },
 }
